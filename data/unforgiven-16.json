@@ -1,0 +1,9 @@
+{
+  "contest": 138,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "implementation contract for proxy pattern in MyStrategy and Vault are uninitialized and can be initialized by attacker and cause damage",
+  "issueId": 16,
+  "issueUrl": "https://github.com/code-423n4/2022-06-badger-findings/issues/16"
+}
