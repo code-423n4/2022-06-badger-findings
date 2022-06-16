@@ -1,0 +1,9 @@
+{
+  "contest": 138,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "any logic that uses _sendBadgerToTree() will revert or double spend happens, because it transfers tokens then calls _processExtraToken() which tries to transfer those tokens again",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2022-06-badger-findings/issues/19"
+}
