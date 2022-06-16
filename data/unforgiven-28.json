@@ -1,0 +1,9 @@
+{
+  "contest": 138,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "3",
+  "title": "reentrancy by _harvest() and _deposit() code in the middle of claimBribesFromHiddenHand() external calls to tokens and change balances of AURA token so claimBribesFromHiddenHand() make wrong transfers and fund would be lost",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2022-06-badger-findings/issues/28"
+}
