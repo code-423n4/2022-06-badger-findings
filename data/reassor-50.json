@@ -1,0 +1,9 @@
+{
+  "contest": 138,
+  "handle": "reassor",
+  "address": "0xd822554aBe37B52E34D0C599EC828dC8C46721FF",
+  "risk": "2",
+  "title": "Missing proper policy for contract in pause mode",
+  "issueId": 50,
+  "issueUrl": "https://github.com/code-423n4/2022-06-badger-findings/issues/50"
+}
