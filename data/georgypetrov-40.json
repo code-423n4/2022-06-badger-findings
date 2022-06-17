@@ -1,0 +1,9 @@
+{
+  "contest": 138,
+  "handle": "georgypetrov",
+  "address": "0x0ed7C72398379F60CeEC0659E3AD6bFdBAa465a8",
+  "risk": "3",
+  "title": "Sandwich attack opportunity on harvest",
+  "issueId": 40,
+  "issueUrl": "https://github.com/code-423n4/2022-06-badger-findings/issues/40"
+}
