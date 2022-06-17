@@ -1,0 +1,9 @@
+{
+  "contest": 138,
+  "handle": "unforgiven",
+  "address": "0x6e6c53f81e310d53387dc2166ee9a632cf768fa1",
+  "risk": "2",
+  "title": "with claimBribesFromHiddenHand() It's possible to send auraBAL rewards from LOCKER to bribeProcessor even so auraBAL is in protected tokens and it is supposed to get harvested in _harvest",
+  "issueId": 31,
+  "issueUrl": "https://github.com/code-423n4/2022-06-badger-findings/issues/31"
+}
