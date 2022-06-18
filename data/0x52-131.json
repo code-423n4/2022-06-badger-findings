@@ -1,0 +1,9 @@
+{
+  "contest": 138,
+  "handle": "0x52",
+  "address": "0x522DFfc539c264A8f7E0B91102E899b33f4DAbc3",
+  "risk": "3",
+  "title": "_harvest rewards can be stolen because it doesn't implement any slippage bounds",
+  "issueId": 131,
+  "issueUrl": "https://github.com/code-423n4/2022-06-badger-findings/issues/131"
+}
