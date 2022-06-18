@@ -1,0 +1,9 @@
+{
+  "contest": 138,
+  "handle": "scaraven",
+  "address": "0xac3A826c8ea76Ab6FCE817d3e54da0acb5fd30d5",
+  "risk": "3",
+  "title": "Yield can be lost due to not specifying `limit` when transferring `auraBAL` to `BAL/ETH BPT`",
+  "issueId": 122,
+  "issueUrl": "https://github.com/code-423n4/2022-06-badger-findings/issues/122"
+}
