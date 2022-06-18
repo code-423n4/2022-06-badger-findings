@@ -1,0 +1,9 @@
+{
+  "contest": 138,
+  "handle": "Picodes",
+  "address": "0x9843C8a8263308A309BfC3C2d1c308126D8E754D",
+  "risk": "2",
+  "title": "Inconsistency in paused functionalities",
+  "issueId": 113,
+  "issueUrl": "https://github.com/code-423n4/2022-06-badger-findings/issues/113"
+}
