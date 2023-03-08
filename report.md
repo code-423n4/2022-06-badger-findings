@@ -1,3 +1,11 @@
+---
+sponsor: "BadgerDAO"
+slug: "2022-06-badger"
+date: "2022-08-02" 
+title: "Badger-Vested-Aura contest"
+findings: "https://github.com/code-423n4/2022-06-badger-findings/issues"
+contest: 138
+---
 
 # Overview
 
